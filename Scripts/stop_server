@@ -1,6 +1,5 @@
 #!/bin/bash
 export PATH=$PATH:/usr/local/bin
-touch stoptest.txt
 cat /home/nodeuser/nodeapp/helloworld/app.js
 SERVICE='node'
 if ps ax | grep -v grep | grep $SERVICE > /dev/null
