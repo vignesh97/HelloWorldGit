@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf /home/nodeuser/nodeapp/helloworld
+touch removetest.txt
+mkdir /home/nodeuser/nodeapp/helloworld

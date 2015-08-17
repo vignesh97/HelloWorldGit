@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /home/nodeuser/nodeapp/rivet_marketing_metrics
+export PATH=$PATH:/usr/local/bin
+touch starttest.txt
+/usr/local/bin/pm2 start /home/nodeuser/nodeapp/rivet_marketing_metrics/app.js
