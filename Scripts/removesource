@@ -1,3 +1,0 @@
-#!/bin/bash
-rm -rf /home/nodeuser/nodeapp/helloworld
-mkdir /home/nodeuser/nodeapp/helloworld

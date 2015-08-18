@@ -1,5 +1,0 @@
-#!/bin/bash
-cd /home/nodeuser/nodeapp/helloworld
-export PATH=$PATH:/usr/local/bin
-/usr/local/bin/pm2 start /home/nodeuser/nodeapp/helloworld/app.js
-
